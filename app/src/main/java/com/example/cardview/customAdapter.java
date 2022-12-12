@@ -42,6 +42,8 @@ public class customAdapter extends RecyclerView.Adapter<customAdapter.viewHolder
 
     @Override
     public int getItemCount() {
+
+
         return cardviewdata.size();
 
     }
